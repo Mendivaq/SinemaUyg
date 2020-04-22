@@ -1,0 +1,9 @@
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Sineeema\bin\Debug\Sineeema.exe.config
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Sineeema\bin\Debug\Sineeema.exe
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Sineeema\bin\Debug\Sineeema.pdb
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Sineeema\obj\Debug\Sineeema.csprojAssemblyReference.cache
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Sineeema\obj\Debug\Sineeema.Form1.resources
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Sineeema\obj\Debug\Sineeema.Properties.Resources.resources
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Sineeema\obj\Debug\Sineeema.csproj.GenerateResource.cache
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Sineeema\obj\Debug\Sineeema.exe
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Sineeema\obj\Debug\Sineeema.pdb
